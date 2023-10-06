@@ -10,7 +10,7 @@ In an increasingly complex world, understanding an individual's mental state and
 
 The project aims to categorize stress levels, ranging from no stress to full stress, based on textual data and the sentiments conveyed in the input messages. The LSTM model achieved impressive accuracy, making accurate predictions.
 
-![Capture1.PNG](Images/Capture1.PNG)
+![Capture1.PNG](Capture1.PNG)
 
 
 
@@ -20,11 +20,11 @@ This project employs machine learning models including SVMs, NB, DT, and LSTM ne
 
 ### Results:
 
-![Capture.PNG](Images/Capture.PNG)
+![Capture.PNG](Capture.PNG)
 
 As seen in the above image, the prediction values for conventional machine learning model is not accurate, there is a huge inaccuracy in the training and final predication accuracy.
 
-![Capture2.PNG](Images/Capture2.PNG)
+![Capture2.PNG](Capture2.PNG)
 
 The LSTM model achieved a training accuracy of 76% and a validation/prediction accuracy of 72%. It accurately categorizes stress levels, ranging from no stress to less stress (0.1-0.5) and more or full stress (0.6-0.9) based on textual data and sentiment analysis.
 
